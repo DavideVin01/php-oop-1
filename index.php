@@ -27,8 +27,8 @@ $text2 = 'Harry Potter and the Philosopher\'s Stone is an enthralling start to H
 $movie1 = new Movie('Hunger Games', '2012', 'Suzanne Collins', $text1);
 $movie2 = new Movie('Harry Potter: Philosopher\'s Stone', '1997', 'J. K. Rowling', $text2);
 
-// var_dump($movie1);
-// var_dump($movie2);
+var_dump($movie1);
+var_dump($movie2);
 ?>
 
 <!DOCTYPE html>
