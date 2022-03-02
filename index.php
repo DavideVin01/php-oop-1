@@ -5,6 +5,14 @@ class Movie
     public $year;
     public $author;
     public $description;
+
+    public function __construct($title, $year, $author, $description)
+    {
+        $this->title = $title;
+        $this->year = $year;
+        $this->author = $author;
+        $this->description = $description;
+    }
 }
 ?>
 
