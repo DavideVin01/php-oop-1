@@ -29,9 +29,10 @@ $movie2 = new Movie('Harry Potter: Philosopher\'s Stone', '1997', 'J. K. Rowling
 
 var_dump($movie1);
 var_dump($movie2);
+
 ?>
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -54,4 +55,4 @@ var_dump($movie2);
     <?php endforeach; ?>
 </body>
 
-</html>
+</html> -->
